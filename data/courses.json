@@ -34,7 +34,7 @@
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_seat": 80,
-      "title": "MERN Stack",
+      "title": "MERN Stack Developer",
       "instructor": {
         "name": "Tom Cruize",
         "course_duration": "12-Months",
@@ -45,11 +45,11 @@
       "details": "Build an application using React from Facebook which has very good support and lot of packages. MERN stands for MongoDB, Express.js, React.js and Node.js - and combined, these four technologies allow you to build amazing web applications. This course is blended with IT industry experience where even a fresher can start working on project in IT industry easily. This package gives desired knowledge on development which is the entry level criteria for any interview. This package gives confidence to a fresher to start working on a development project from the day of joining. You will learn to build complex website using Mern stack like Facebook.You will learn to create API’s in Node JS.You will learn to deploy heroku, Forget & reset password, Image uploading.You will be testing end points using postman.Work on integrating MongoDB, React JS, Node JS ≈ Express JS.  "
     },
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_seat": 80,
-      "title": "Full Stack",
+      "title": "Full Stack Developer",
       "instructor": {
         "name": "Tom Cruize",
         "course_duration": "12-Months",
@@ -58,6 +58,66 @@
       "thumbnail_url": "https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/images/blog/how-to-become-a-full-stack-web-developer.jpg",
       "image_url": "https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png",
       "details": "Full Stack Web Developer Mean Stack course provides complete knowledge of software development and testing technologies such as JavaScript, Node.js, Angular, Docker, and Protractor. You'll build an end-to-end application, test and deploy code, and store data using MongoDB.This MEAN stack developer program provides extensive training in front-end, middleware, and back-end software development technologies, including testing and quality assurance. Phase-end and capstone projects are based on real business scenarios.This comprehensive curriculum covers more than 15 software development tools and technologies to make your profile stand out as a MEAN stack developer.This MEAN full stack developer program offers a comprehensive curriculum using our unique Blended Learning approach to make you career-ready as a full stack MEAN developer upon successful completion of the program.  "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_seat": 100,
+      "title": "Basic Grammer",
+      "instructor": {
+        "name": "Robert Downy Jr.",
+        "course_duration": "6-Months",
+        "img": "https://imgv3.fotor.com/images/blog-cover-image/10-profile-picture-ideas-to-make-you-stand-out.jpg"
+      },
+      "thumbnail_url": "https://ielanguages.com/logos/englishgrammar.png",
+      "image_url": "https://alpha.sg/wp-content/uploads/2020/04/Basic-English-Grammar-Rules-Part-2-1170x658.jpg",
+      "details": "This online grammar course will provide you with a comprehensive review of the grammar and writing skills necessary to be successful in your academic and professional life. Learning how to properly use English grammar will not only help you excel in writing academic essays and passing entrance exams, but more importantly, it will help you improve your everyday, work-related writing and email correspondence.Divided up into 15 easy-to-understand lessons, this grammar course concentrates on usage, the mechanics of a sentence, spelling, and a general review of grammatical problem areas. Each lesson focuses on frequent errors, illustrates concepts with real world examples, suggests strategies, and provides review worksheets, activities, and assignments to ensure skill mastery. Lessons also offer additional study guides for further learning.This course is ideal for all types of students who want to get an edge on taking a high school, college, or a job-related English exam--as well as anyone wishing to update and improve their grammar and writing skills.  "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_seat": 80,
+      "title": "Advance English Writing",
+      "instructor": {
+        "name": "Robert Downy Jr.",
+        "course_duration": "6-Months",
+        "img": "https://imgv3.fotor.com/images/blog-cover-image/10-profile-picture-ideas-to-make-you-stand-out.jpg"
+      },
+      "thumbnail_url": "https://writingcenterofprinceton.com/wp-content/uploads/2021/08/pexels-karolina-grabowska-6958533-scaled.jpg",
+      "image_url": "https://www.theeagleangle.com/wp-content/uploads/2019/11/2z8gFYh1i2gtacHoNe3RNGmD2VRpDjMDk7hLilrA-900x600.jpeg",
+      "details": "This course is designed to capture what cannot be held in hand or thought--the elusive riddle of human creativity as we find it in our writing. Here we look at various forms and genres (books, dramas and plays, poetry, essays, film-writing, stories in general, etc.) as they relate to the creative impulse.We also talk about the Writer's Voice and personality, writing as therapy, illusions about writing, legend and mythos, and other areas where a creative writer may find inspiration, advice or enlightening conjecture. This self-paced course is offered to writers everywhere with hat-in-hand, for what it may be worth. Test and review questions, and also lesson exercises are included at the end of each lesson to build mastery. "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_seat": 70,
+      "title": "Digital Communication",
+      "instructor": {
+        "name": "Chris Evans",
+        "course_duration": "6-Months",
+        "img": "https://imgv3.fotor.com/images/blog-cover-image/10-profile-picture-ideas-to-make-you-stand-out.jpg"
+      },
+      "thumbnail_url": "https://cdn.digitalhealth.net/wp-content/uploads/2019/03/shutterstock_1193163277.jpg",
+      "image_url": "https://govos.com/wp-content/uploads/2021/12/Digital-Communications-Hero.png",
+      "details": "What is a course in digital communication? This course is designed to prepare students to use digital communication for advertising and marketing. There is a number of key concepts often focused on throughout this course, which includes social entrepreneurship, graphic design, advertising, web development and journalism. The classes required for this program of study may vary from school to school, but programming for digital media, experience design, typography, storytelling with data, public relations and internet marketing are examples.This course is beneficial for students looking to have a career in advertising, web design or journalism. Some employers may find a student with this educational background intriguing. Depending on the level of degree, this education could lead to a higher level position or salary.As you decide what course to apply to, you need to consider the tuition. Each school may have a different cost for this course, so you need to do some research to find out which one fits your needs. You can contact the university directly to learn more about the cost.Someone who has finished a program of study about digital communication may be able to become a graphic designer, computer animator, writer, video producer or web developer. If you want to become a high-level manager, you may need to consider getting a master’s degree. Your education and previous experience may dictate the type of position you can get in digital communication."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6h",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_seat": 70,
+      "title": "Customer Service",
+      "instructor": {
+        "name": "Chris Evans",
+        "course_duration": "6-Months",
+        "img": "https://imgv3.fotor.com/images/blog-cover-image/10-profile-picture-ideas-to-make-you-stand-out.jpg"
+      },
+      "thumbnail_url": "https://y26uq11r8xr1zyp0d3inciqv-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/181-1.jpg",
+      "image_url": "https://www.salesforce.com/content/dam/blogs/ca/Blog%20Posts/Every-Task-a-Customer-Service-Rep-Must-Do-opengraph.png",
+      "details": "This training course teaches you the basics of customer service. We show you how to focus on the customer to understand their expectations to help you improve their experience of your business. We explain how to deal with stress and constructively interact with clients on the telephone to handle complaints. People’s perceptions of your company’s brand are defined by customer experience, so sign up to make sure they remember you fondly.This highly interactive training workshop provides a toolbox of skills for effectively and efficiently handling all types of customer interactions. Participants will learn customer service skills to help improve their performance and present a professional, knowledgeable image that reflects well on your company. "
     }
     
   ]
