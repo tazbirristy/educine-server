@@ -1,0 +1,18 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_seat": 100,
+      "title": "Complete HTML Guide",
+      "advisor": {
+        "name": "De Caprio",
+        "course_duration": "6-Months",
+        "img": "https://imgv3.fotor.com/images/blog-cover-image/10-profile-picture-ideas-to-make-you-stand-out.jpg"
+      },
+      "thumbnail_url": "https://images.velog.io/images/dhlee91/post/f2418376-eacc-40cb-b7c8-73473580da3e/html_.png",
+      "image_url": "https://www.dreamhost.com/blog/wp-content/uploads/2022/06/image7-750x498.png",
+      "details": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. These courses initiate formation of documents by indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items.There are many certificate programs in HTML courses which are offered by both online and offline means. Nowadays online HTML certificates are very trending and their popularity is increasing day by day. The time range can vary from Months, Weeks to few hours.Certificate programs of HTML courses are designed specially to impart candidates with some additional skills that they can use in their respective sector and it makes them active with the daily world."
+    }
+    
+  ]
