@@ -118,6 +118,36 @@
       "thumbnail_url": "https://y26uq11r8xr1zyp0d3inciqv-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/181-1.jpg",
       "image_url": "https://www.salesforce.com/content/dam/blogs/ca/Blog%20Posts/Every-Task-a-Customer-Service-Rep-Must-Do-opengraph.png",
       "details": "This training course teaches you the basics of customer service. We show you how to focus on the customer to understand their expectations to help you improve their experience of your business. We explain how to deal with stress and constructively interact with clients on the telephone to handle complaints. People’s perceptions of your company’s brand are defined by customer experience, so sign up to make sure they remember you fondly.This highly interactive training workshop provides a toolbox of skills for effectively and efficiently handling all types of customer interactions. Participants will learn customer service skills to help improve their performance and present a professional, knowledgeable image that reflects well on your company. "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6i",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_seat": 90,
+      "title": "Applied Data Science ",
+      "instructor": {
+        "name": "Jason Stattham",
+        "course_duration": "12-Months",
+        "img": "https://imgv3.fotor.com/images/blog-cover-image/10-profile-picture-ideas-to-make-you-stand-out.jpg"
+      },
+      "thumbnail_url": "https://y26uq11r8xr1zyp0d3inciqv-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/181-1.jpg",
+      "image_url": "https://www.salesforce.com/content/dam/blogs/ca/Blog%20Posts/Every-Task-a-Customer-Service-Rep-Must-Do-opengraph.png",
+      "details": "This training course teaches you the basics of customer service. We show you how to focus on the customer to understand their expectations to help you improve their experience of your business. We explain how to deal with stress and constructively interact with clients on the telephone to handle complaints. People’s perceptions of your company’s brand are defined by customer experience, so sign up to make sure they remember you fondly.This highly interactive training workshop provides a toolbox of skills for effectively and efficiently handling all types of customer interactions. Participants will learn customer service skills to help improve their performance and present a professional, knowledgeable image that reflects well on your company. "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6j",
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_seat": 100,
+      "title": "Applied Arts and Sciences ",
+      "instructor": {
+        "name": "Daniel Craig",
+        "course_duration": "12-Months",
+        "img": "https://imgv3.fotor.com/images/blog-cover-image/10-profile-picture-ideas-to-make-you-stand-out.jpg"
+      },
+      "thumbnail_url": "https://y26uq11r8xr1zyp0d3inciqv-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/181-1.jpg",
+      "image_url": "https://www.salesforce.com/content/dam/blogs/ca/Blog%20Posts/Every-Task-a-Customer-Service-Rep-Must-Do-opengraph.png",
+      "details": "This training course teaches you the basics of customer service. We show you how to focus on the customer to understand their expectations to help you improve their experience of your business. We explain how to deal with stress and constructively interact with clients on the telephone to handle complaints. People’s perceptions of your company’s brand are defined by customer experience, so sign up to make sure they remember you fondly.This highly interactive training workshop provides a toolbox of skills for effectively and efficiently handling all types of customer interactions. Participants will learn customer service skills to help improve their performance and present a professional, knowledgeable image that reflects well on your company. "
     }
     
   ]
